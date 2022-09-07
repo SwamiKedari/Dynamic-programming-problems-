@@ -1,0 +1,9 @@
+It is very important to understand the space optimisation part of this type of dynamic programming
+We have to maximise the profit by buying and selling the stock
+
+
+
+
+
+
+

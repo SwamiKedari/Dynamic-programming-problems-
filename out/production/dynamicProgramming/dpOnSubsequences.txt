@@ -1,0 +1,3 @@
+In the dp of subsequences , we solve problems which are subsequence based
+Subsequence is a sub array which follows the order
+We will also have a target which we need to find

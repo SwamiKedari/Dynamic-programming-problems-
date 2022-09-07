@@ -1,0 +1,5 @@
+This includes the problems of comparison , replaces etc
+subsequence : all the strings which are in order and can take or nottake a particular character
+subsequence basically maintains the order in the string
+Almost all the problems on dp of strings will have match and notmatch possibilities
+Like the dp On subsequences had take and nottake possibilities

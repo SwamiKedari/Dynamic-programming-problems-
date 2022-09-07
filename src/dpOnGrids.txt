@@ -1,0 +1,9 @@
+dp on grids include count paths
+count paths with obstacles
+min path sum
+max path sum
+triangle
+2 start points
+
+This all include almost all the problems related to the grids
+This is an important topic

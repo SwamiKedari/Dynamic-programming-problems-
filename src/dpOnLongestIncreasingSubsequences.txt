@@ -1,0 +1,2 @@
+In this type of problem , we will deal with the longest increasing subsequences
+It include finding the length , printing the subsequence , finding the total count etc..

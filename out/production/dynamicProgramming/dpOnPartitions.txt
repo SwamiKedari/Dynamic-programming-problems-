@@ -1,0 +1,11 @@
+In this type of problems we partition the array into 2 parts and then we get the based possible of the asked value from the partitions
+
+The rules to solve this type of problems are as follows:
+1) start with the entire block / array
+2) try out all the partitions
+3) take the best possible partition
+
+// for the matrix chain multiplication , this all rules are used
+
+// for the tabulation in the mcm type problems we use the bottom up approach to solve the problems
+
