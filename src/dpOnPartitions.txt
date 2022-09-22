@@ -9,3 +9,13 @@ The rules to solve this type of problems are as follows:
 
 // for the tabulation in the mcm type problems we use the bottom up approach to solve the problems
 
+The problems that are similar to the mcm problem
+
+
+
+
+
+
+The problems that are similar the front end partitioning are as follows:
+In the palindrome partitioning problem , we do the partitioning from the front end and not from both the ends as in the mcm or the boolean parenthesis problem
+
