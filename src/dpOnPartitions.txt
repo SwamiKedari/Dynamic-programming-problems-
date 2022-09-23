@@ -19,3 +19,9 @@ The problems that are similar to the mcm problem
 The problems that are similar the front end partitioning are as follows:
 In the palindrome partitioning problem , we do the partitioning from the front end and not from both the ends as in the mcm or the boolean parenthesis problem
 
+
+For all the dp problems , we solved them using the recursion and then using the tabulation and space optimization for the particular problem, but in the case of finding the number of squares in the total matrix , we use the tabulation code and do not use the recursive approach
+
+The maximum rectangles in the case of the matrix problem can be solved using the approach which is very similar to the approach of the finding the maximum rectangle in the case of the histogram
+
+
