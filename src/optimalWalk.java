@@ -1,4 +1,6 @@
 public class optimalWalk {
+    // the question is to take the minimum path from the n to the zero where to go one step a cost is required and to go to n/2, b cost is required and he can go either to n-1,n+1,n/2
+
     static long optimalWalkFromNToZero(long n,long a,long b)
     {
         long[] dp=new long[(int)n+1];
